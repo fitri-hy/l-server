@@ -1,0 +1,19 @@
+2025-12-24 15:25:09 0 [Note] Starting MariaDB 10.11.15-MariaDB source revision cb0d6dd835023a7162ace471cd047161f205dd58 server_uid rNWI9zQtWlziF/xCrHBfcjq40TI= as process 25368
+2025-12-24 15:25:09 0 [Note] InnoDB: The first data file './ibdata1' did not exist. A new tablespace will be created!
+2025-12-24 15:25:09 0 [Note] InnoDB: Compressed tables use zlib 1.3.1
+2025-12-24 15:25:09 0 [Note] InnoDB: Number of transaction pools: 1
+2025-12-24 15:25:09 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2025-12-24 15:25:09 0 [Note] InnoDB: Using ThreadPool
+2025-12-24 15:25:09 0 [Note] InnoDB: innodb_buffer_pool_size_max=24m, innodb_buffer_pool_size=21m
+2025-12-24 15:25:09 0 [Note] InnoDB: Completed initialization of buffer pool
+2025-12-24 15:25:09 0 [Note] InnoDB: Setting file './ibdata1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-12-24 15:25:09 0 [Note] InnoDB: File './ibdata1' size is now 12.000MiB.
+2025-12-24 15:25:09 0 [Note] InnoDB: File system buffers for log disabled (block size=4096 bytes)
+2025-12-24 15:25:09 0 [Note] InnoDB: Doublewrite buffer not found: creating new
+2025-12-24 15:25:09 0 [Note] InnoDB: Doublewrite buffer created
+2025-12-24 15:25:09 0 [Note] InnoDB: 128 rollback segments are active.
+2025-12-24 15:25:09 0 [Note] InnoDB: Setting file './ibtmp1' size to 12.000MiB. Physically writing the file full; Please wait ...
+2025-12-24 15:25:09 0 [Note] InnoDB: File './ibtmp1' size is now 12.000MiB.
+2025-12-24 15:25:09 0 [Note] InnoDB: log sequence number 0; transaction id 3
+2025-12-24 15:25:09 0 [Note] Plugin 'FEEDBACK' is disabled.
+2025-12-24 15:25:09 0 [Note] mysqld.exe: SSPI: using principal name 'localhost', mech 'Negotiate'
