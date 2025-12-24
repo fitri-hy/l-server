@@ -9,6 +9,7 @@ L-Server CLI is a **portable local server** designed for Windows to simplify loc
 - 🐬 **MariaDB**  
 - 🐘 **PHP & PHP-FPM**  
 - 🚀 **NGINX**  
+- 🗄️ **phpMyAdmin**  
 - 🗂 **File Browser**  
 
 ## ⚡ How to Use
